@@ -1,5 +1,11 @@
 ## Laravel Example RSS Feed
 
+### Post Cloning
+
+* Run composer install
+* Check app/storage permissions
+* Run artisan migrations and seed
+
 ### Files to review for this project
 
 * composer.json
