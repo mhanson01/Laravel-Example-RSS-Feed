@@ -2,9 +2,10 @@
 
 ### Post Cloning
 
+* Update app/config/database.php to the correct database credentials
 * Run composer install
-* Check app/storage permissions
-* Run artisan migrations and seed
+* Update app/storage folder permissions
+* Run php artisan migrate --seed
 
 ### Files to review for this project
 
